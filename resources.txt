@@ -1,0 +1,9 @@
+The following websites are accessed during the project development:
+www.openstreetmap.org
+www.mapzen.com
+
+The following GitHub repsitory is used:
+https://github.com/rknlhrqy/Wrangle-OpenStreetMap-Data
+
+
+
