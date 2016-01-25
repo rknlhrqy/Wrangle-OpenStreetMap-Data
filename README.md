@@ -8,3 +8,4 @@ Here are the list of the documents:
 4, san_jose-california_sample.osm: An .osm file containing a sample part of the map region I used.
 5, resources.txt: A text file containing a list of Web sites, and github repositories that I referred to or used in this submission
 6, san_jose-california.osm.bz2: The downloaded San Jose OSM XML map file is added. It is downloaded from https://mapzen.com/data/metro-extracts/.
+7, Project: folder which holds all the Python codes I developed for this project.
