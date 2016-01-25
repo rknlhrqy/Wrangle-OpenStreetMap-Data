@@ -1,0 +1,7 @@
+Map of San Jose, CA is in the following link:
+http://www.openstreetmap.org/relation/112143#map=11/37.2970/-121.8171
+
+Map of San Jose is downloaded from https://mapzen.com/data/metro-extracts/. It
+is compressed: san-jose_california.osm.bz2
+
+It is in the heart of Silicon Valley. A lot of high-tech companies and other businesses which support innovation and entrepreneurship. It is alway amazing to have a chance to study this area.
